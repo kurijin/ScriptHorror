@@ -1,8 +1,12 @@
 # ScriptHorror
 自主制作 「変怖館」のホラーゲーム内のスクリプト
 
+# 参考URL
 ・本ゲームのgithub
 https://github.com/kurijin/HorrorGame/blob/main/README.md
+
+- 紹介動画
+https://youtu.be/nF1HCdbQm1o
 
 
 # システム&技術詳細
